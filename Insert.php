@@ -11,9 +11,9 @@
         error_reporting(E_ALL);
 
         $host     = 'https://gc-webhosting.nl';
-        $db       = 'net24pveltman_phptest';
-        $user     = 'net24pveltman_dinges';
-        $password = '0LrW^;ab&Rw?';
+        $db       = 'net24yscholten_netwerken';
+        $user     = 'net24yscholten_yael';
+        $password = 'bF@Ap,x(c3{o';
         $port     = 2083;
         $charset  = 'utf8mb4';
           
